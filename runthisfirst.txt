@@ -1,0 +1,3 @@
+conda install -c conda-forge langdetect
+pip install scikit-multilearn
+conda install -c conda-forge wordcloud
